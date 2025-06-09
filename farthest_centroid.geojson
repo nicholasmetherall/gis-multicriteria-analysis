@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "farthest_centroid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 691894.499914377811365, 8915634.057050479575992 ] } }
+]
+}
